@@ -1,7 +1,8 @@
 ---
-title: Hello World
+title: helloworld
 ---
 ![Hello world!]({{site.url}}/images/helloworld.jpg)
+
 ```java
 package helloworld;
 
@@ -12,3 +13,4 @@ public class HelloWorld {
 	}
 
 }
+```
