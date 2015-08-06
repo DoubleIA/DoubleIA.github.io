@@ -1,0 +1,15 @@
+name:王英博
+
+url:http://www.doubleia.io
+
+baseurl:""
+
+
+markdown:redcarpet
+highlighter:pygments
+permalink:/:title/
+
+exclude:
+    -Gemfile
+    -Gemfile.lock
+    -README.md
