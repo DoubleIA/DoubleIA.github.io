@@ -4,12 +4,11 @@ url:http://www.doubleia.io
 
 baseurl:""
 
-
 markdown:redcarpet
 highlighter:pygments
 permalink:/:title/
 
 exclude:
-    -Gemfile
-    -Gemfile.lock
-    -README.md
+    - Gemfile
+    - Gemfile.lock
+    - README.md
