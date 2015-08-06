@@ -1,12 +1,12 @@
-name:王英博
+name: 王英博
 
-url:http://www.doubleia.io
+url: http://www.doubleia.io
 
-baseurl:""
+baseurl: ""
 
-markdown:redcarpet
-highlighter:pygments
-permalink:/:title/
+markdown: redcarpet
+highlighter: pygments
+permalink: /:title/
 
 exclude:
     - Gemfile
