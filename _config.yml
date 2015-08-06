@@ -6,7 +6,7 @@ baseurl: ""
 
 paginate: 5
 
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: images/wade.jpg
 
 markdown: redcarpet
 highlighter: pygments
