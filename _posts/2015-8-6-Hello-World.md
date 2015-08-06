@@ -1,4 +1,5 @@
 ---
+layout: page
 title: helloworld
 ---
 ![Hello world!]({{site.url}}/images/helloworld.jpg)
