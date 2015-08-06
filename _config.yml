@@ -4,6 +4,10 @@ url: http://www.doubleia.io
 
 baseurl: ""
 
+paginate: 5
+
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+
 markdown: redcarpet
 highlighter: pygments
 permalink: /:title/
