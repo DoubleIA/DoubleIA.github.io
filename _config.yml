@@ -1,12 +1,10 @@
-name: 王英博
+name: 王英博 
 
 url: http://doubleia.github.io
 
 baseurl: ""
 
 paginate: 5
-
-avatar: images/wade.jpg
 
 markdown: redcarpet
 highlighter: pygments
